@@ -1,19 +1,20 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
-title: blank # the website title (if blank, full name will be used instead)
+title: Medical Physics Research Group
 first_name: Ramesh
 last_name: Boggula
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  contact_note: >
+  For research collaboration or inquiries, contact us at <a href="mailto:yrboggula@wayne.edu">rboggula@wayne.edu</a>.
+description: > Advancing adaptive radiotherapy, AI in medical physics, and computational tools for radiation oncology.
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  © 2025 Medical Physics Research Group | Designed using <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/alshedivat/al-folio">al-folio</a>. 
+  Hosted on <a href="https://github.com/" target="_blank">GitHub Pages</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: keywords: medical physics, adaptive radiotherapy, radiation oncology, AI in medicine, treatment planning, dosimetry
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
