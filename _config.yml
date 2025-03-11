@@ -5,12 +5,11 @@ title: Medical Physics Research Group
 first_name: Ramesh
 last_name: Boggula
 contact_note: >
-  contact_note: >
   For research collaboration or inquiries, contact us at <a href="mailto:yrboggula@wayne.edu">rboggula@wayne.edu</a>.
-description: > Advancing adaptive radiotherapy, AI in medical physics, and computational tools for radiation oncology.
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: > 
+  Advancing adaptive radiotherapy, AI in medical physics, and computational tools for radiation oncology.
 footer_text: >
-  © 2025 Medical Physics Research Group | Designed using <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/alshedivat/al-folio">al-folio</a>. 
+  © 2025 Medical Physics Research Group. 
   Hosted on <a href="https://github.com/" target="_blank">GitHub Pages</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
