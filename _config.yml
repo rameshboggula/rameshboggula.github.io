@@ -9,10 +9,7 @@ contact_note: >
 description: > 
   Advancing adaptive radiotherapy, AI in medical physics, and computational tools for radiation oncology.
 footer_text: >
-  © 2025 Medical Physics Research Group. 
-  Hosted on <a href="https://github.com/" target="_blank">GitHub Pages</a>.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  © 2025 Medical Physics Research Group.
 keywords: medical physics, adaptive radiotherapy, radiation oncology, AI in medicine, treatment planning, dosimetry
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
