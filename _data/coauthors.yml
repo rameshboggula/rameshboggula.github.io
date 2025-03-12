@@ -6,11 +6,6 @@
     linkedin: "https://linkedin.com/in/rameshboggula"
     researchgate: "https://www.researchgate.net/profile/Ramesh-Boggula"
 
-"student1":
- - name: "Student Name"
-    role: "Graduate Researcher"
-    linkedin: "https://linkedin.com/in/student"
-
 "podolsky":
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
